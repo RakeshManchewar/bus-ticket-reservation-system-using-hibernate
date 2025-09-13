@@ -1,4 +1,4 @@
-# Bus Ticket System - Hibernate
+# Bus Ticket Reservation System - Hibernate
 
 A simple console-based bus ticket reservation app built with Java and Hibernate.
 
